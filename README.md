@@ -6,7 +6,7 @@ This project will allow the user to:
   - Be presented with visual data over the years regarding rough commercial cycling usage vs metro usage
 
 ## Wireframe
-![Wireframe](https://github.com/solracdelsol/nycmapped/issues/1#issue-680368717)
+![Wireframe](https://user-images.githubusercontent.com/64517743/90420933-a794ae80-e086-11ea-8a57-65b3835bde7f.png)
 
 
 This project consists of a simplistic interface that allows the user to input a date, radio buttons to filter the type of data they want to view, and a visual map representing the selected data in a progression of 24 hours. Additional controls will include a Start, Stop, and Reset for the progression. There will also be a links to my Github, LinkedIn, and Portfolio site.
