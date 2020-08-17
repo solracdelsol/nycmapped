@@ -14,12 +14,12 @@ This project consists of a simplistic interface that allows the user to input a 
 
 ## Architecture and Technologies
 
-This project consists of a simple user interface regarding 
+This project consists of various API information in order to display data trends regardi
 
 ## Implementation Timeline
 
 ## Bonus Features
 
--regional heatmaps of nyc
--extended time length progression over periods longer than 24 hours.
-- TBD
+ -regional heatmaps of nyc
+ -extended time length progression over periods longer than 24 hours.
+ - TBD
