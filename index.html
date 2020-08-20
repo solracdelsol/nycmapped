@@ -1,15 +1,39 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./dist/main.css" />
-  <title>Document</title>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./dist/main.css" />
+    <title>NYCMapped</title>    
+    
+    <script
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnCBi4ukEWV6dTzN2lcYkCRbgKg1sht3E"
+    ></script>
+  </head>
 
-<body>
-  <script src="./dist/main.js"></script>
-  <h1>Test</h1>
-</body>
+  <body>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+
+
+    <script type="text/javascript" src="./dist/main.js"></script>
+
+
+    <div id="map">This is the map</div>
+
+
+
+
+    <h1 id="hello">Test</h1>
+    <select id="boroughs">
+      <option value="ALL">ALL</option>
+      <option value="Brooklyn">Brooklyn</option>
+      <option value="Bronx">Bronx</option>
+      <option value="Manhattan">Manhattan</option>
+      <option value="Queens">Queens</option>
+      <option value="Staten Island">Staten Island</option>
+    </select>
+  </body>
 </html>
