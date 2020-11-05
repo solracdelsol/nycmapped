@@ -1,0 +1,444 @@
+stop_name,daytime_routes,line,borough,structure,gtfs_longitude,gtfs_latitude,date,entries
+Astoria - Ditmars Blvd,N W,Astoria,Q,Elevated,-73.912034,40.775036,2020-07-04,1739
+49 St,N R W,Broadway - Brighton,M,Subway,-73.984139,40.759901,2020-07-04,949
+Hewes St,J M,Jamaica,Bk,Elevated,-73.953431,40.70687,2020-07-04,478
+Marcy Av,J M Z,Jamaica,Bk,Elevated,-73.957757,40.708359,2020-07-04,1520
+Bowery,J Z,Jamaica,M,Subway,-73.993915,40.72028,2020-07-04,492
+Broad St,J Z,Jamaica,M,Subway,-74.011056,40.706476,2020-07-04,350
+Middle Village - Metropolitan Av,M,Myrtle Av,Q,Elevated,-73.889601,40.711396,2020-07-04,412
+Fresh Pond Rd,M,Myrtle Av,Q,Elevated,-73.895877,40.706186,2020-07-04,825
+Forest Av,M,Myrtle Av,Q,Elevated,-73.903077,40.704423,2020-07-04,529
+Seneca Av,M,Myrtle Av,Q,Elevated,-73.90774,40.702762,2020-07-04,412
+Knickerbocker Av,M,Myrtle Av,Bk,Elevated,-73.919711,40.698664,2020-07-04,708
+Central Av,M,Myrtle Av,Bk,Elevated,-73.927397,40.697857,2020-07-04,472
+3 Av,L,Canarsie,M,Subway,-73.986122,40.732849,2020-07-04,638
+1 Av,L,Canarsie,M,Subway,-73.981628,40.730953,2020-07-04,2327
+Bedford Av,L,Canarsie,Bk,Subway,-73.956872,40.717304,2020-07-04,3239
+Graham Av,L,Canarsie,Bk,Subway,-73.944053,40.714565,2020-07-04,910
+Grand St,L,Canarsie,Bk,Subway,-73.94067,40.711926,2020-07-04,743
+Montrose Av,L,Canarsie,Bk,Subway,-73.93985,40.707739,2020-07-04,978
+Morgan Av,L,Canarsie,Bk,Subway,-73.933147,40.706152,2020-07-04,1053
+Jefferson St,L,Canarsie,Bk,Subway,-73.922913,40.706607,2020-07-04,976
+DeKalb Av,L,Canarsie,Bk,Subway,-73.918425,40.703811,2020-07-04,1903
+Halsey St,L,Canarsie,Q,Subway,-73.904084,40.695602,2020-07-04,1217
+28 St,R W,Broadway - Brighton,M,Subway,-73.988691,40.745494,2020-07-04,508
+Wilson Av,L,Canarsie,Bk,Subway,-73.904046,40.688764,2020-07-04,866
+Bushwick Av - Aberdeen St,L,Canarsie,Bk,Subway,-73.905249,40.682829,2020-07-04,401
+Atlantic Av,L,Canarsie,Bk,Elevated,-73.903097,40.675345,2020-07-04,297
+Sutter Av,L,Canarsie,Bk,Elevated,-73.901975,40.669367,2020-07-04,714
+Livonia Av,L,Canarsie,Bk,Elevated,-73.900571,40.664038,2020-07-04,601
+New Lots Av,L,Canarsie,Bk,Elevated,-73.899232,40.658733,2020-07-04,577
+E 105 St,L,Canarsie,Bk,At Grade,-73.899485,40.650573,2020-07-04,565
+Canarsie - Rockaway Pkwy,L,Canarsie,Bk,At Grade,-73.90185,40.646654,2020-07-04,1417
+23 St,R W,Broadway - Brighton,M,Subway,-73.989344,40.741303,2020-07-04,1129
+Park Pl,S,Franklin Shuttle,Bk,Open Cut,-73.957624,40.674772,2020-07-04,259
+Inwood - 207 St,A,8th Av - Fulton St,M,Subway,-73.919899,40.868072,2020-07-04,1353
+Dyckman St,A,8th Av - Fulton St,M,Subway,-73.927271,40.865491,2020-07-04,1002
+190 St,A,8th Av - Fulton St,M,Subway,-73.93418,40.859022,2020-07-04,611
+181 St,A,8th Av - Fulton St,M,Subway,-73.937969,40.851695,2020-07-04,1133
+175 St,A,8th Av - Fulton St,M,Subway,-73.939704,40.847391,2020-07-04,1462
+163 St - Amsterdam Av,C,8th Av - Fulton St,M,Subway,-73.939892,40.836013,2020-07-04,656
+155 St,C,8th Av - Fulton St,M,Subway,-73.941514,40.830518,2020-07-04,416
+145 St,B D,Concourse,M,Subway,-73.944216,40.824783,2020-07-04,3777
+135 St,B C,8th Av - Fulton St,M,Subway,-73.947649,40.817894,2020-07-04,591
+125 St,A B C D,8th Av - Fulton St,M,Subway,-73.952343,40.811109,2020-07-04,4569
+116 St,B C,8th Av - Fulton St,M,Subway,-73.954882,40.805085,2020-07-04,868
+Cathedral Pkwy (110 St),B C,8th Av - Fulton St,M,Subway,-73.958161,40.800603,2020-07-04,921
+103 St,B C,8th Av - Fulton St,M,Subway,-73.961454,40.796092,2020-07-04,586
+96 St,B C,8th Av - Fulton St,M,Subway,-73.964696,40.791642,2020-07-04,864
+86 St,B C,8th Av - Fulton St,M,Subway,-73.968916,40.785868,2020-07-04,749
+81 St - Museum of Natural History,B C,8th Av - Fulton St,M,Subway,-73.972143,40.781433,2020-07-04,735
+8 St - NYU,R W,Broadway - Brighton,M,Subway,-73.992629,40.730328,2020-07-04,945
+72 St,B C,8th Av - Fulton St,M,Subway,-73.97641,40.775594,2020-07-04,738
+50 St,C E,8th Av - Fulton St,M,Subway,-73.985984,40.762456,2020-07-04,1543
+34 St - Penn Station,A C E,8th Av - Fulton St,M,Subway,-73.993391,40.752287,2020-07-04,5013
+23 St,C E,8th Av - Fulton St,M,Subway,-73.998041,40.745906,2020-07-04,1401
+W 4 St,A C E,8th Av - Fulton St,M,Subway,-74.000495,40.732338,2020-07-04,3500
+Spring St,C E,8th Av - Fulton St,M,Subway,-74.003739,40.726227,2020-07-04,554
+Canal St,A C E,8th Av - Fulton St,M,Subway,-74.005229,40.720824,2020-07-04,888
+Prince St,R W,Broadway - Brighton,M,Subway,-73.997702,40.724329,2020-07-04,816
+High St,A C,8th Av - Fulton St,Bk,Subway,-73.990531,40.699337,2020-07-04,1456
+Hoyt - Schermerhorn Sts,A C G,8th Av - Fulton St,Bk,Subway,-73.985001,40.688484,2020-07-04,1384
+Lafayette Av,C,8th Av - Fulton St,Bk,Subway,-73.973946,40.686113,2020-07-04,623
+Clinton - Washington Avs,C,8th Av - Fulton St,Bk,Subway,-73.965838,40.683263,2020-07-04,510
+Nostrand Av,A C,8th Av - Fulton St,Bk,Subway,-73.950426,40.680438,2020-07-04,2479
+Kingston - Throop Avs,C,8th Av - Fulton St,Bk,Subway,-73.940858,40.679921,2020-07-04,830
+Utica Av,A C,8th Av - Fulton St,Bk,Subway,-73.930729,40.679364,2020-07-04,2523
+Ralph Av,C,8th Av - Fulton St,Bk,Subway,-73.920786,40.678822,2020-07-04,1026
+Rockaway Av,C,8th Av - Fulton St,Bk,Subway,-73.911946,40.67834,2020-07-04,1018
+Liberty Av,C,8th Av - Fulton St,Bk,Subway,-73.896548,40.674542,2020-07-04,402
+Van Siclen Av,C,8th Av - Fulton St,Bk,Subway,-73.890358,40.67271,2020-07-04,609
+Shepherd Av,C,8th Av - Fulton St,Bk,Subway,-73.88075,40.67413,2020-07-04,594
+Euclid Av,A C,8th Av - Fulton St,Bk,Subway,-73.872106,40.675377,2020-07-04,2249
+Grant Av,A,Liberty Av,Bk,Subway,-73.86505,40.677044,2020-07-04,1127
+80 St,A,Liberty Av,Q,Elevated,-73.858992,40.679371,2020-07-04,647
+88 St,A,Liberty Av,Q,Elevated,-73.85147,40.679843,2020-07-04,425
+Rockaway Blvd,A,Liberty Av,Q,Elevated,-73.843853,40.680429,2020-07-04,1268
+104 St,A,Liberty Av,Q,Elevated,-73.837683,40.681711,2020-07-04,258
+111 St,A,Liberty Av,Q,Elevated,-73.832163,40.684331,2020-07-04,314
+Ozone Park - Lefferts Blvd,A,Liberty Av,Q,Elevated,-73.825798,40.685951,2020-07-04,1288
+Aqueduct Racetrack,A,Rockaway,Q,At Grade,-73.835919,40.672097,2020-07-04,18
+Aqueduct - N Conduit Av,A,Rockaway,Q,At Grade,-73.834058,40.668234,2020-07-04,83
+Howard Beach - JFK Airport,A,Rockaway,Q,At Grade,-73.830301,40.660476,2020-07-04,272
+Broad Channel,A S,Rockaway,Q,At Grade,-73.815925,40.608382,2020-07-04,46
+Astoria Blvd,N W,Astoria,Q,Elevated,-73.917843,40.770258,2020-07-04,1094
+City Hall,R W,Broadway,M,Subway,-74.006978,40.713282,2020-07-04,369
+Beach 90 St,A S,Rockaway,Q,Viaduct,-73.813641,40.588034,2020-07-04,671
+Beach 98 St,A S,Rockaway,Q,Viaduct,-73.820558,40.585307,2020-07-04,313
+Beach 105 St,A S,Rockaway,Q,Viaduct,-73.827559,40.583209,2020-07-04,245
+Rockaway Park - Beach 116 St,A S,Rockaway,Q,At Grade,-73.835592,40.580903,2020-07-04,582
+Beach 67 St,A,Rockaway,Q,Viaduct,-73.796924,40.590927,2020-07-04,941
+Beach 60 St,A,Rockaway,Q,Viaduct,-73.788522,40.592374,2020-07-04,621
+Beach 44 St,A,Rockaway,Q,Viaduct,-73.776013,40.592943,2020-07-04,196
+Beach 36 St,A,Rockaway,Q,Viaduct,-73.768175,40.595398,2020-07-04,289
+Beach 25 St,A,Rockaway,Q,Viaduct,-73.761353,40.600066,2020-07-04,411
+Far Rockaway - Mott Av,A,Rockaway,Q,Viaduct,-73.755405,40.603995,2020-07-04,1110
+Norwood - 205 St,D,Concourse,Bx,Subway,-73.878855,40.874811,2020-07-04,1719
+Bedford Park Blvd,B D,Concourse,Bx,Subway,-73.887138,40.873244,2020-07-04,1145
+Kingsbridge Rd,B D,Concourse,Bx,Subway,-73.893509,40.866978,2020-07-04,1371
+Fordham Rd,B D,Concourse,Bx,Subway,-73.897749,40.861296,2020-07-04,2122
+182-183 Sts,B D,Concourse,Bx,Subway,-73.900741,40.856093,2020-07-04,994
+Tremont Av,B D,Concourse,Bx,Subway,-73.905227,40.85041,2020-07-04,1640
+174-175 Sts,B D,Concourse,Bx,Subway,-73.910136,40.8459,2020-07-04,989
+170 St,B D,Concourse,Bx,Subway,-73.9134,40.839306,2020-07-04,1141
+167 St,B D,Concourse,Bx,Subway,-73.91844,40.833771,2020-07-04,2002
+Rector St,R W,Broadway,M,Subway,-74.013342,40.70722,2020-07-04,242
+155 St,B D,Concourse,M,Subway,-73.938209,40.830135,2020-07-04,820
+21 St - Queensbridge,F,63rd St,Q,Subway,-73.942836,40.754203,2020-07-04,1485
+Roosevelt Island,F,63rd St,M,Subway,-73.95326,40.759145,2020-07-04,1265
+Lexington Av/63 St,F Q,63rd St,M,Subway,-73.966113,40.764629,2020-07-04,1534
+57 St,F,6th Av - Culver,M,Subway,-73.97745,40.763972,2020-07-04,796
+47-50 Sts - Rockefeller Ctr,B D F M,6th Av - Culver,M,Subway,-73.981329,40.758663,2020-07-04,1575
+23 St,F M,6th Av - Culver,M,Subway,-73.992821,40.742878,2020-07-04,1664
+Grand St,B D,6th Av - Culver,M,Subway,-73.993753,40.718267,2020-07-04,2486
+2 Av,F,6th Av - Culver,M,Subway,-73.989938,40.723402,2020-07-04,1659
+East Broadway,F,6th Av - Culver,M,Subway,-73.990173,40.713715,2020-07-04,1549
+York St,F,6th Av - Culver,Bk,Subway,-73.986751,40.701397,2020-07-04,1404
+Bergen St,F G,6th Av - Culver,Bk,Subway,-73.990862,40.686145,2020-07-04,1013
+Carroll St,F G,6th Av - Culver,Bk,Subway,-73.995048,40.680303,2020-07-04,885
+Smith - 9 Sts,F G,6th Av - Culver,Bk,Viaduct,-73.995959,40.67358,2020-07-04,682
+7 Av,F G,6th Av - Culver,Bk,Subway,-73.980305,40.666271,2020-07-04,1066
+15 St - Prospect Park,F G,6th Av - Culver,Bk,Subway,-73.979493,40.660365,2020-07-04,1065
+Fort Hamilton Pkwy,F G,6th Av - Culver,Bk,Subway,-73.975776,40.650782,2020-07-04,544
+Church Av,F,6th Av - Culver,Bk,Subway,-73.979678,40.644041,2020-07-04,2028
+Ditmas Av,F,6th Av - Culver,Bk,Elevated,-73.978172,40.636119,2020-07-04,
+18 Av,F,6th Av - Culver,Bk,Elevated,-73.976971,40.629755,2020-07-04,1
+Avenue I,F,6th Av - Culver,Bk,Elevated,-73.976127,40.625322,2020-07-04,
+Bay Pkwy,F,6th Av - Culver,Bk,Elevated,-73.975264,40.620769,2020-07-04,
+Avenue N,F,6th Av - Culver,Bk,Elevated,-73.974197,40.61514,2020-07-04,3
+Avenue P,F,6th Av - Culver,Bk,Elevated,-73.973022,40.608944,2020-07-04,4
+Kings Hwy,F,6th Av - Culver,Bk,Elevated,-73.972361,40.603217,2020-07-04,12
+Avenue U,F,6th Av - Culver,Bk,Elevated,-73.973357,40.596063,2020-07-04,
+Avenue X,F,6th Av - Culver,Bk,Elevated,-73.97425,40.58962,2020-07-04,2
+Neptune Av,F,6th Av - Culver,Bk,Elevated,-73.974574,40.581011,2020-07-04,1
+Jamaica - 179 St,F,Queens Blvd,Q,Subway,-73.783817,40.712646,2020-07-04,2339
+169 St,F,Queens Blvd,Q,Subway,-73.793604,40.71047,2020-07-04,1114
+Parsons Blvd,F,Queens Blvd,Q,Subway,-73.803326,40.707564,2020-07-04,1154
+Sutphin Blvd,F,Queens Blvd,Q,Subway,-73.810708,40.70546,2020-07-04,596
+Briarwood - Van Wyck Blvd,E F,Queens Blvd,Q,Subway,-73.820574,40.709179,2020-07-04,532
+Kew Gardens - Union Tpke,E F,Queens Blvd,Q,Subway,-73.831008,40.714441,2020-07-04,2249
+DeKalb Av,B Q R,Broadway - Brighton,Bk,Subway,-73.981824,40.690635,2020-07-04,2428
+75 Av,E F,Queens Blvd,Q,Subway,-73.837324,40.718331,2020-07-04,309
+Forest Hills - 71 Av,E F M R,Queens Blvd,Q,Subway,-73.844521,40.721691,2020-07-04,2557
+67 Av,M R,Queens Blvd,Q,Subway,-73.852719,40.726523,2020-07-04,835
+63 Dr - Rego Park,M R,Queens Blvd,Q,Subway,-73.861604,40.729846,2020-07-04,1766
+Woodhaven Blvd,M R,Queens Blvd,Q,Subway,-73.869229,40.733106,2020-07-04,2454
+Grand Av - Newtown,M R,Queens Blvd,Q,Subway,-73.877223,40.737015,2020-07-04,2155
+Elmhurst Av,M R,Queens Blvd,Q,Subway,-73.882017,40.742454,2020-07-04,1933
+65 St,M R,Queens Blvd,Q,Subway,-73.898453,40.749669,2020-07-04,469
+Northern Blvd,M R,Queens Blvd,Q,Subway,-73.906006,40.752885,2020-07-04,804
+46 St,M R,Queens Blvd,Q,Subway,-73.913333,40.756312,2020-07-04,1046
+Steinway St,M R,Queens Blvd,Q,Subway,-73.92074,40.756879,2020-07-04,1787
+36 St,M R,Queens Blvd,Q,Subway,-73.928781,40.752039,2020-07-04,236
+Queens Plaza,E M R,Queens Blvd,Q,Subway,-73.937243,40.748973,2020-07-04,1002
+5 Av/53 St,E M,Queens Blvd,M,Subway,-73.975224,40.760167,2020-07-04,476
+7 Av,B D E,Queens Blvd,M,Subway,-73.981637,40.762862,2020-07-04,675
+Jamaica Center - Parsons/Archer,E J Z,Queens - Archer,Q,Subway,-73.801109,40.702147,2020-07-04,4964
+Sutphin Blvd - Archer Av - JFK Airport,E J Z,Queens - Archer,Q,Subway,-73.807969,40.700486,2020-07-04,3263
+Union St,R,4th Av,Bk,Subway,-73.98311,40.677316,2020-07-04,729
+Jamaica - Van Wyck,E,Queens - Archer,Q,Subway,-73.816859,40.702566,2020-07-04,613
+21 St,G,Crosstown,Q,Subway,-73.949724,40.744065,2020-07-04,248
+Greenpoint Av,G,Crosstown,Bk,Subway,-73.954449,40.731352,2020-07-04,1108
+Nassau Av,G,Crosstown,Bk,Subway,-73.951277,40.724635,2020-07-04,910
+Broadway,G,Crosstown,Bk,Subway,-73.950308,40.706092,2020-07-04,772
+Flushing Av,G,Crosstown,Bk,Subway,-73.950234,40.700377,2020-07-04,318
+Myrtle - Willoughby Avs,G,Crosstown,Bk,Subway,-73.949046,40.694568,2020-07-04,941
+Bedford - Nostrand Avs,G,Crosstown,Bk,Subway,-73.953522,40.689627,2020-07-04,1091
+Classon Av,G,Crosstown,Bk,Subway,-73.96007,40.688873,2020-07-04,631
+Clinton - Washington Avs,G,Crosstown,Bk,Subway,-73.966839,40.688089,2020-07-04,399
+Fulton St,G,Crosstown,Bk,Subway,-73.975375,40.687119,2020-07-04,778
+Van Cortlandt Park - 242 St,1,Broadway - 7Av,Bx,Elevated,-73.898583,40.889248,2020-07-04,1142
+238 St,1,Broadway - 7Av,Bx,Elevated,-73.90087,40.884667,2020-07-04,647
+231 St,1,Broadway - 7Av,Bx,Elevated,-73.904834,40.878856,2020-07-04,1467
+Marble Hill - 225 St,1,Broadway - 7Av,M,Elevated,-73.909831,40.874561,2020-07-04,1043
+215 St,1,Broadway - 7Av,M,Elevated,-73.915279,40.869444,2020-07-04,238
+207 St,1,Broadway - 7Av,M,Elevated,-73.918822,40.864621,2020-07-04,1301
+Dyckman St,1,Broadway - 7Av,M,Elevated,-73.925536,40.860531,2020-07-04,1540
+30 Av,N W,Astoria,Q,Elevated,-73.921479,40.766779,2020-07-04,1692
+Prospect Av,R,4th Av,Bk,Subway,-73.992872,40.665414,2020-07-04,626
+191 St,1,Broadway - 7Av,M,Subway,-73.929412,40.855225,2020-07-04,273
+181 St,1,Broadway - 7Av,M,Subway,-73.933596,40.849505,2020-07-04,2062
+157 St,1,Broadway - 7Av,M,Subway,-73.94489,40.834041,2020-07-04,1860
+145 St,1,Broadway - 7Av,M,Subway,-73.95036,40.826551,2020-07-04,1650
+137 St - City College,1,Broadway - 7Av,M,Subway,-73.953676,40.822008,2020-07-04,1887
+125 St,1,Broadway - 7Av,M,Elevated,-73.958372,40.815581,2020-07-04,1027
+116 St - Columbia University,1,Broadway - 7Av,M,Subway,-73.96411,40.807722,2020-07-04,476
+Cathedral Pkwy,1,Broadway - 7Av,M,Subway,-73.966847,40.803967,2020-07-04,1237
+103 St,1,Broadway - 7Av,M,Subway,-73.968379,40.799446,2020-07-04,1383
+25 St,R,4th Av,Bk,Subway,-73.998091,40.660397,2020-07-04,585
+96 St,1 2 3,Broadway - 7Av,M,Subway,-73.972323,40.793919,2020-07-04,3151
+86 St,1,Broadway - 7Av,M,Subway,-73.976218,40.788644,2020-07-04,1505
+79 St,1,Broadway - 7Av,M,Subway,-73.979917,40.783934,2020-07-04,1089
+72 St,1 2 3,Broadway - 7Av,M,Subway,-73.98197,40.778453,2020-07-04,3626
+66 St - Lincoln Center,1,Broadway - 7Av,M,Subway,-73.982209,40.77344,2020-07-04,1127
+50 St,1,Broadway - 7Av,M,Subway,-73.983849,40.761728,2020-07-04,821
+34 St - Penn Station,1 2 3,Broadway - 7Av,M,Subway,-73.991057,40.750373,2020-07-04,5567
+28 St,1,Broadway - 7Av,M,Subway,-73.993365,40.747215,2020-07-04,590
+36 St,D N R,4th Av,Bk,Subway,-74.003549,40.655144,2020-07-04,2007
+23 St,1,Broadway - 7Av,M,Subway,-73.995657,40.744081,2020-07-04,1141
+18 St,1,Broadway - 7Av,M,Subway,-73.997871,40.74104,2020-07-04,384
+Christopher St - Sheridan Sq,1,Broadway - 7Av,M,Subway,-74.002906,40.733422,2020-07-04,894
+Houston St,1,Broadway - 7Av,M,Subway,-74.005367,40.728251,2020-07-04,486
+Canal St,1,Broadway - 7Av,M,Subway,-74.006277,40.722854,2020-07-04,303
+Franklin St,1,Broadway - 7Av,M,Subway,-74.006886,40.719318,2020-07-04,190
+Chambers St,1 2 3,Broadway - 7Av,M,Subway,-74.009266,40.715478,2020-07-04,921
+WTC Cortlandt,1,Broadway - 7Av,M,Subway,-74.012188,40.711835,2020-07-04,654
+Rector St,1,Broadway - 7Av,M,Subway,-74.013783,40.707513,2020-07-04,314
+45 St,R,4th Av,Bk,Subway,-74.010006,40.648939,2020-07-04,1360
+Wall St,2 3,Clark St,M,Subway,-74.0091,40.706821,2020-07-04,889
+Clark St,2 3,Clark St,Bk,Subway,-73.993086,40.697466,2020-07-04,790
+Hoyt St,2 3,Eastern Pky,Bk,Subway,-73.985065,40.690545,2020-07-04,864
+Nevins St,2 3 4 5,Eastern Pky,Bk,Subway,-73.980492,40.688246,2020-07-04,1119
+Bergen St,2 3,Eastern Pky,Bk,Subway,-73.975098,40.680829,2020-07-04,319
+53 St,R,4th Av,Bk,Subway,-74.014034,40.645069,2020-07-04,1708
+Grand Army Plaza,2 3,Eastern Pky,Bk,Subway,-73.971046,40.675235,2020-07-04,752
+Eastern Pkwy - Brooklyn Museum,2 3,Eastern Pky,Bk,Subway,-73.964375,40.671987,2020-07-04,410
+Nostrand Av,3,Eastern Pky,Bk,Subway,-73.950466,40.669847,2020-07-04,630
+Kingston Av,3,Eastern Pky,Bk,Subway,-73.942161,40.669399,2020-07-04,550
+Crown Hts - Utica Av,3 4,Eastern Pky,Bk,Subway,-73.932942,40.668897,2020-07-04,4897
+Sutter Av - Rutland Rd,3,Eastern Pky,Bk,Elevated,-73.92261,40.664717,2020-07-04,1414
+Saratoga Av,3,Eastern Pky,Bk,Elevated,-73.916327,40.661453,2020-07-04,877
+Rockaway Av,3,Eastern Pky,Bk,Elevated,-73.908946,40.662549,2020-07-04,1048
+Junius St,3,Eastern Pky,Bk,Elevated,-73.902447,40.663515,2020-07-04,453
+59 St,N R,4th Av,Bk,Subway,-74.017881,40.641362,2020-07-04,1850
+Pennsylvania Av,3,Eastern Pky,Bk,Elevated,-73.894895,40.664635,2020-07-04,936
+Van Siclen Av,3,Eastern Pky,Bk,Elevated,-73.889395,40.665449,2020-07-04,597
+New Lots Av,3,Eastern Pky,Bk,Elevated,-73.884079,40.666235,2020-07-04,1150
+President St,2 5,Nostrand,Bk,Subway,-73.950683,40.667883,2020-07-04,440
+Sterling St,2 5,Nostrand,Bk,Subway,-73.95085,40.662742,2020-07-04,721
+Winthrop St,2 5,Nostrand,Bk,Subway,-73.9502,40.656652,2020-07-04,903
+Church Av,2 5,Nostrand,Bk,Subway,-73.949575,40.650843,2020-07-04,1607
+Beverly Rd,2 5,Nostrand,Bk,Subway,-73.948959,40.645098,2020-07-04,706
+Newkirk Av,2 5,Nostrand,Bk,Subway,-73.948411,40.639967,2020-07-04,1160
+Flatbush Av - Brooklyn College,2 5,Nostrand,Bk,Subway,-73.947642,40.632836,2020-07-04,2715
+Bay Ridge Av,R,4th Av,Bk,Subway,-74.023377,40.634967,2020-07-04,1149
+Pelham Bay Park,6,Pelham,Bx,Elevated,-73.828121,40.852462,2020-07-04,1425
+Buhre Av,6,Pelham,Bx,Elevated,-73.832569,40.84681,2020-07-04,412
+Middletown Rd,6,Pelham,Bx,Elevated,-73.836322,40.843863,2020-07-04,220
+Westchester Sq - E Tremont Av,6,Pelham,Bx,Elevated,-73.842952,40.839892,2020-07-04,765
+Zerega Av,6,Pelham,Bx,Elevated,-73.847036,40.836488,2020-07-04,380
+Castle Hill Av,6,Pelham,Bx,Elevated,-73.851222,40.834255,2020-07-04,1166
+Parkchester,6,Pelham,Bx,Elevated,-73.860816,40.833226,2020-07-04,2522
+St Lawrence Av,6,Pelham,Bx,Elevated,-73.867618,40.831509,2020-07-04,798
+Morrison Av- Sound View,6,Pelham,Bx,Elevated,-73.874516,40.829521,2020-07-04,1065
+Elder Av,6,Pelham,Bx,Elevated,-73.879159,40.828584,2020-07-04,1388
+77 St,R,4th Av,Bk,Subway,-74.02551,40.629742,2020-07-04,673
+Whitlock Av,6,Pelham,Bx,Elevated,-73.886283,40.826525,2020-07-04,377
+Hunts Point Av,6,Pelham,Bx,Subway,-73.890549,40.820948,2020-07-04,1691
+Longwood Av,6,Pelham,Bx,Subway,-73.896435,40.816104,2020-07-04,504
+E 149 St,6,Pelham,Bx,Subway,-73.904098,40.812118,2020-07-04,1025
+E 143 St - St Mary's St,6,Pelham,Bx,Subway,-73.907657,40.808719,2020-07-04,160
+Cypress Av,6,Pelham,Bx,Subway,-73.914042,40.805368,2020-07-04,606
+Brook Av,6,Pelham,Bx,Subway,-73.91924,40.807566,2020-07-04,1212
+3 Av - 138 St,6,Pelham,Bx,Subway,-73.926138,40.810476,2020-07-04,1395
+Woodlawn,4,Jerome Av,Bx,Elevated,-73.878751,40.886037,2020-07-04,1173
+Mosholu Pkwy,4,Jerome Av,Bx,Elevated,-73.884655,40.87975,2020-07-04,1622
+86 St,R,4th Av,Bk,Subway,-74.028398,40.622687,2020-07-04,1457
+Bedford Park Blvd - Lehman College,4,Jerome Av,Bx,Elevated,-73.890064,40.873412,2020-07-04,765
+Kingsbridge Rd,4,Jerome Av,Bx,Elevated,-73.897174,40.86776,2020-07-04,1651
+Fordham Rd,4,Jerome Av,Bx,Elevated,-73.901034,40.862803,2020-07-04,2283
+183 St,4,Jerome Av,Bx,Elevated,-73.903879,40.858407,2020-07-04,1313
+Burnside Av,4,Jerome Av,Bx,Elevated,-73.907684,40.853453,2020-07-04,2006
+176 St,4,Jerome Av,Bx,Elevated,-73.911794,40.84848,2020-07-04,1216
+Mt Eden Av,4,Jerome Av,Bx,Elevated,-73.914685,40.844434,2020-07-04,978
+170 St,4,Jerome Av,Bx,Elevated,-73.917791,40.840075,2020-07-04,1606
+167 St,4,Jerome Av,Bx,Elevated,-73.9214,40.835537,2020-07-04,1733
+Bay Ridge - 95 St,R,4th Av,Bk,Subway,-74.030876,40.616622,2020-07-04,734
+138 St - Grand Concourse,4 5,Jerome Av,Bx,Subway,-73.929849,40.813224,2020-07-04,226
+125 St,4 5 6,Lexington Av,M,Subway,-73.937594,40.804138,2020-07-04,3863
+116 St,6,Lexington Av,M,Subway,-73.941617,40.798629,2020-07-04,2542
+110 St,6,Lexington Av,M,Subway,-73.94425,40.79502,2020-07-04,1490
+103 St,6,Lexington Av,M,Subway,-73.947478,40.7906,2020-07-04,1935
+96 St,6,Lexington Av,M,Subway,-73.95107,40.785672,2020-07-04,1571
+86 St,4 5 6,Lexington Av,M,Subway,-73.955589,40.779492,2020-07-04,3499
+77 St,6,Lexington Av,M,Subway,-73.959874,40.77362,2020-07-04,1842
+68 St - Hunter College,6,Lexington Av,M,Subway,-73.96387,40.768141,2020-07-04,1339
+Broadway,N W,Astoria,Q,Elevated,-73.925508,40.76182,2020-07-04,1395
+33 St,6,Lexington Av,M,Subway,-73.982076,40.746081,2020-07-04,1558
+28 St,6,Lexington Av,M,Subway,-73.984264,40.74307,2020-07-04,1267
+23 St,6,Lexington Av,M,Subway,-73.986599,40.739864,2020-07-04,1152
+Astor Pl,6,Lexington Av,M,Subway,-73.99107,40.730054,2020-07-04,939
+Spring St,6,Lexington Av,M,Subway,-73.997141,40.722301,2020-07-04,694
+7 Av,B Q,Broadway - Brighton,Bk,Subway,-73.972367,40.67705,2020-07-04,853
+Wall St,4 5,Lexington Av,M,Subway,-74.011862,40.707557,2020-07-04,606
+Bowling Green,4 5,Lexington Av,M,Subway,-74.014065,40.704817,2020-07-04,1689
+Wakefield - 241 St,2,Lenox - White Plains Rd,Bx,Elevated,-73.85062,40.903125,2020-07-04,
+Nereid Av,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.854376,40.898379,2020-07-04,
+233 St,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.857473,40.893193,2020-07-04,
+225 St,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.860341,40.888022,2020-07-04,
+Prospect Park,B Q,Broadway - Brighton,Bk,Open Cut,-73.962246,40.661614,2020-07-04,1612
+219 St,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.862633,40.883895,2020-07-04,
+Gun Hill Rd,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.866256,40.87785,2020-07-04,2343
+Burke Av,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.867164,40.871356,2020-07-04,400
+Allerton Av,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.867352,40.865462,2020-07-04,633
+Pelham Pkwy,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.867615,40.857192,2020-07-04,1028
+Bronx Park East,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.868457,40.848828,2020-07-04,267
+E 180 St,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.873488,40.841894,2020-07-04,1492
+West Farms Sq - E Tremont Av,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.880049,40.840295,2020-07-04,1065
+174 St,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.887734,40.837288,2020-07-04,1147
+Freeman St,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.891865,40.829993,2020-07-04,818
+Parkside Av,B Q,Broadway - Brighton,Bk,Open Cut,-73.961495,40.655292,2020-07-04,1391
+Simpson St,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.893064,40.824073,2020-07-04,1470
+Intervale Av,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.896736,40.822181,2020-07-04,559
+Prospect Av,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.90177,40.819585,2020-07-04,1186
+Jackson Av,2 5,Lenox - White Plains Rd,Bx,Elevated,-73.907807,40.81649,2020-07-04,900
+3 Av - 149 St,2 5,Lenox - White Plains Rd,Bx,Subway,-73.917757,40.816109,2020-07-04,3501
+Harlem - 148 St,3,Lenox - White Plains Rd,M,Subway,-73.93647,40.82388,2020-07-04,489
+145 St,3,Lenox - White Plains Rd,M,Subway,-73.936245,40.820421,2020-07-04,432
+135 St,2 3,Lenox - White Plains Rd,M,Subway,-73.94077,40.814229,2020-07-04,2125
+125 St,2 3,Lenox - White Plains Rd,M,Subway,-73.945495,40.807754,2020-07-04,2308
+Church Av,B Q,Broadway - Brighton,Bk,Open Cut,-73.962982,40.650527,2020-07-04,2875
+116 St,2 3,Lenox - White Plains Rd,M,Subway,-73.949625,40.802098,2020-07-04,1514
+Central Park North (110 St),2 3,Lenox - White Plains Rd,M,Subway,-73.951822,40.799075,2020-07-04,1317
+Eastchester - Dyre Av,5,Dyre Av,Bx,At Grade,-73.830834,40.8883,2020-07-04,692
+Baychester Av,5,Dyre Av,Bx,Open Cut,-73.838591,40.878663,2020-07-04,496
+Gun Hill Rd,5,Dyre Av,Bx,Open Cut,-73.846384,40.869526,2020-07-04,615
+Pelham Pkwy,5,Dyre Av,Bx,Open Cut,-73.855359,40.858985,2020-07-04,308
+Morris Park,5,Dyre Av,Bx,Open Cut,-73.860495,40.854364,2020-07-04,281
+Flushing - Main St,7,Flushing,Q,Subway,-73.83003,40.7596,2020-07-04,7332
+Mets - Willets Point,7,Flushing,Q,Elevated,-73.845625,40.754622,2020-07-04,1095
+111 St,7,Flushing,Q,Elevated,-73.855334,40.75173,2020-07-04,2553
+Beverley Rd,B Q,Broadway - Brighton,Bk,Open Cut,-73.964492,40.644031,2020-07-04,664
+103 St - Corona Plaza,7,Flushing,Q,Elevated,-73.8627,40.749865,2020-07-04,4453
+Junction Blvd,7,Flushing,Q,Elevated,-73.869527,40.749145,2020-07-04,5557
+90 St - Elmhurst Av,7,Flushing,Q,Elevated,-73.876613,40.748408,2020-07-04,3078
+82 St - Jackson Hts,7,Flushing,Q,Elevated,-73.883697,40.747659,2020-07-04,2522
+69 St,7,Flushing,Q,Elevated,-73.896403,40.746325,2020-07-04,815
+Woodside - 61 St,7,Flushing,Q,Elevated,-73.902984,40.74563,2020-07-04,3009
+52 St,7,Flushing,Q,Elevated,-73.912549,40.744149,2020-07-04,747
+46 St,7,Flushing,Q,Elevated,-73.918435,40.743132,2020-07-04,1617
+40 St,7,Flushing,Q,Elevated,-73.924016,40.743781,2020-07-04,1021
+Cortelyou Rd,B Q,Broadway - Brighton,Bk,Open Cut,-73.963891,40.640927,2020-07-04,1056
+33 St,7,Flushing,Q,Elevated,-73.930997,40.744587,2020-07-04,204
+Queensboro Plaza,7,Flushing,Q,Elevated,-73.940202,40.750582,2020-07-04,1652
+Hunters Point Av,7,Flushing,Q,Subway,-73.948916,40.742216,2020-07-04,165
+Vernon Blvd - Jackson Av,7,Flushing,Q,Subway,-73.953581,40.742626,2020-07-04,2180
+Newkirk Plaza,B Q,Broadway - Brighton,Bk,Open Cut,-73.962793,40.635082,2020-07-04,1787
+34 St - 11 Av,7,Flushing,M,Subway,-74.00191,40.755882,2020-07-04,1056
+96 St,Q,Second Av,M,Subway,-73.947152,40.784318,2020-07-04,2206
+86 St,Q,Second Av,M,Subway,-73.951787,40.777891,2020-07-04,2035
+72 St,Q,Second Av,M,Subway,-73.958424,40.768799,2020-07-04,2414
+Avenue H,B Q,Broadway - Brighton,Bk,Open Cut,-73.961639,40.62927,2020-07-04,446
+Avenue J,B Q,Broadway - Brighton,Bk,Open Cut,-73.960803,40.625039,2020-07-04,890
+36 Av,N W,Astoria,Q,Elevated,-73.929575,40.756804,2020-07-04,894
+Avenue M,B Q,Broadway - Brighton,Bk,Open Cut,-73.959399,40.617618,2020-07-04,757
+St George,SIR,Staten Island,SI,Open Cut,-74.073643,40.643748,2020-07-04,649
+Tompkinsville,SIR,Staten Island,SI,At Grade,-74.074835,40.636949,2020-07-04,98
+Kings Hwy,B Q,Broadway - Brighton,Bk,Open Cut,-73.957734,40.60867,2020-07-04,2545
+Avenue U,B Q,Broadway - Brighton,Bk,Open Cut,-73.955929,40.5993,2020-07-04,1102
+Neck Rd,B Q,Broadway - Brighton,Bk,Open Cut,-73.955161,40.595246,2020-07-04,594
+Sheepshead Bay,B Q,Broadway - Brighton,Bk,Open Cut,-73.954155,40.586896,2020-07-04,1784
+Brighton Beach,B Q,Broadway - Brighton,Bk,Elevated,-73.961376,40.577621,2020-07-04,3213
+Ocean Pkwy,Q,Broadway - Brighton,Bk,Elevated,-73.968501,40.576312,2020-07-04,960
+W 8 St - NY Aquarium,F Q,Broadway - Brighton,Bk,Elevated,-73.975939,40.576127,2020-07-04,710
+Coney Island - Stillwell Av,D F N Q,Sea Beach / West End / Culver / Brighton,Bk,Viaduct,-73.981233,40.577422,2020-07-04,7397
+9 Av,D,West End,Bk,Open Cut,-73.994324,40.646292,2020-07-04,988
+39 Av,N W,Astoria,Q,Elevated,-73.932755,40.752882,2020-07-04,254
+Fort Hamilton Pkwy,D,West End,Bk,Elevated,-73.994304,40.640914,2020-07-04,686
+6 Av,L,Canarsie,M,Subway,-73.996786,40.737335,2020-07-04,3890
+Union Sq - 14 St,L,Canarsie,M,Subway,-73.99073,40.734789,2020-07-04,8993
+149 St - Grand Concourse,4,Jerome Av,Bx,Subway,-73.927351,40.818375,2020-07-04,1992
+161 St - Yankee Stadium,B D,Concourse,Bx,Subway,-73.925651,40.827905,2020-07-04,4009
+168 St - Washington Hts,1,Broadway - 7Av,M,Subway,-73.940133,40.840556,2020-07-04,3095
+Court Sq,7,Flushing,Q,Elevated,-73.945264,40.747023,2020-07-04,1421
+34 St - Herald Sq,B D F M,6th Av - Culver,M,Subway,-73.987823,40.749719,2020-07-04,9255
+4 Av,F G,6th Av - Culver,Bk,Viaduct,-73.989779,40.670272,2020-07-04,1396
+42 St - Bryant Pk,B D F M,6th Av - Culver,M,Subway,-73.984569,40.754222,2020-07-04,2318
+50 St,D,West End,Bk,Elevated,-73.994791,40.63626,2020-07-04,528
+Grand Central - 42 St,7,Flushing,M,Subway,-73.976041,40.751431,2020-07-04,5522
+Times Sq - 42 St,7,Flushing,M,Subway,-73.987691,40.755477,2020-07-04,14298
+51 St,6,Lexington Av,M,Subway,-73.97192,40.757107,2020-07-04,659
+59 St,4 5 6,Lexington Av,M,Subway,-73.967967,40.762526,2020-07-04,5600
+59 St - Columbus Circle,A B C D,8th Av - Fulton St,M,Subway,-73.981736,40.768296,2020-07-04,5747
+62 St,D,West End,Bk,Elevated,-73.996895,40.626472,2020-07-04,601
+Jackson Hts - Roosevelt Av,E F M R,Queens Blvd,Q,Subway,-73.891338,40.746644,2020-07-04,9148
+Atlantic Av - Barclays Ctr,D N R,4th Av,Bk,Subway,-73.97881,40.683666,2020-07-04,5117
+8 Av,L,Canarsie,M,Subway,-74.002578,40.739777,2020-07-04,3106
+Broadway-Lafayette St,B D F M,6th Av - Culver,M,Subway,-73.996204,40.725297,2020-07-04,2289
+55 St,D,West End,Bk,Elevated,-73.995476,40.631435,2020-07-04,305
+Borough Hall,2 3,Clark St,Bk,Subway,-73.989998,40.693219,2020-07-04,2219
+Broadway Jct,L,Canarsie,Bk,Elevated,-73.90324,40.678856,2020-07-04,1974
+Chambers St,J Z,Jamaica,M,Subway,-74.003401,40.713243,2020-07-04,1578
+Canal St,J Z,Jamaica,M,Subway,-73.999892,40.718092,2020-07-04,3292
+Cortlandt St,R W,Broadway,M,Subway,-74.011029,40.710668,2020-07-04,3280
+Delancey St,F,6th Av - Culver,M,Subway,-73.988114,40.718611,2020-07-04,3558
+Franklin Av,2 3 4 5,Eastern Pky,Bk,Subway,-73.958131,40.670682,2020-07-04,200
+Franklin Av,S,Franklin Shuttle,Bk,Elevated,-73.955827,40.680596,2020-07-04,2738
+Fulton St,2 3,Clark St,M,Subway,-74.006571,40.709416,2020-07-04,5747
+Lorimer St,L,Canarsie,Bk,Subway,-73.950275,40.714063,2020-07-04,1941
+Myrtle - Wyckoff Avs,M,Myrtle Av,Bk,Elevated,-73.912385,40.69943,2020-07-04,3678
+South Ferry,1,Broadway - 7Av,M,Subway,-74.013664,40.702068,2020-07-04,2365
+Jay St - MetroTech,A C F,8th Av - Fulton St,Bk,Subway,-73.987342,40.692338,2020-07-04,2940
+71 St,D,West End,Bk,Elevated,-73.998864,40.619589,2020-07-04,862
+79 St,D,West End,Bk,Elevated,-74.00061,40.613501,2020-07-04,808
+18 Av,D,West End,Bk,Elevated,-74.001736,40.607954,2020-07-04,864
+20 Av,D,West End,Bk,Elevated,-73.998168,40.604556,2020-07-04,862
+Bay Pkwy,D,West End,Bk,Elevated,-73.993728,40.601875,2020-07-04,1344
+25 Av,D,West End,Bk,Elevated,-73.986829,40.597704,2020-07-04,604
+Bay 50 St,D,West End,Bk,Elevated,-73.983765,40.588841,2020-07-04,389
+8 Av,N,Sea Beach,Bk,Open Cut,-74.011719,40.635064,2020-07-04,1152
+Fort Hamilton Pkwy,N,Sea Beach,Bk,Open Cut,-74.005351,40.631386,2020-07-04,670
+18 Av,N,Sea Beach,Bk,Open Cut,-73.990414,40.620671,2020-07-04,764
+20 Av,N,Sea Beach,Bk,Open Cut,-73.985026,40.61741,2020-07-04,428
+Bay Pkwy,N,Sea Beach,Bk,Open Cut,-73.981848,40.611815,2020-07-04,1331
+Kings Hwy,N,Sea Beach,Bk,Open Cut,-73.980353,40.603923,2020-07-04,946
+Avenue U,N,Sea Beach,Bk,Open Cut,-73.979137,40.597473,2020-07-04,624
+86 St,N,Sea Beach,Bk,Open Cut,-73.97823,40.592721,2020-07-04,631
+5 Av/59 St,N W R,Astoria,M,Subway,-73.973347,40.764811,2020-07-04,1332
+121 St,J Z,Jamaica,Q,Elevated,-73.828294,40.700492,2020-07-04,360
+111 St,J,Jamaica,Q,Elevated,-73.836345,40.697418,2020-07-04,329
+104 St,J Z,Jamaica,Q,Elevated,-73.84433,40.695178,2020-07-04,457
+Woodhaven Blvd,J Z,Jamaica,Q,Elevated,-73.851576,40.693879,2020-07-04,829
+85 St - Forest Pkwy,J,Jamaica,Q,Elevated,-73.86001,40.692435,2020-07-04,655
+75 St,J Z,Jamaica,Q,Elevated,-73.867139,40.691324,2020-07-04,615
+Cypress Hills,J,Jamaica,Bk,Elevated,-73.87255,40.689941,2020-07-04,286
+Crescent St,J Z,Jamaica,Bk,Elevated,-73.873785,40.683194,2020-07-04,832
+Norwood Av,J Z,Jamaica,Bk,Elevated,-73.880039,40.68141,2020-07-04,583
+Cleveland St,J,Jamaica,Bk,Elevated,-73.884639,40.679947,2020-07-04,563
+57 St - 7 Av,N Q R W,Broadway - Brighton,M,Subway,-73.980658,40.764664,2020-07-04,2456
+Van Siclen Av,J Z,Jamaica,Bk,Elevated,-73.891688,40.678024,2020-07-04,614
+Alabama Av,J,Jamaica,Bk,Elevated,-73.898654,40.676992,2020-07-04,412
+Chauncey St,J Z,Jamaica,Bk,Elevated,-73.910456,40.682893,2020-07-04,654
+Halsey St,J,Jamaica,Bk,Elevated,-73.916559,40.68637,2020-07-04,1175
+Gates Av,J Z,Jamaica,Bk,Elevated,-73.92227,40.68963,2020-07-04,1301
+Kosciuszko St,J,Jamaica,Bk,Elevated,-73.928814,40.693342,2020-07-04,1033
+Myrtle Av,J M Z,Jamaica,Bk,Elevated,-73.935657,40.697207,2020-07-04,1720
+Flushing Av,J M,Jamaica,Bk,Elevated,-73.941126,40.70026,2020-07-04,1502
+Lorimer St,J M,Jamaica,Bk,Elevated,-73.947408,40.703869,2020-07-04,602
+Roosevelt Island Tram - Eastbound,,,,,-73.964191,40.761186,2020-07-04,1445
+Roosevelt Island Tram - Westbound,,,,,-73.954097,40.757307,2020-07-04,1389
+Howard Beach,,,,,-73.829638,40.661051,2020-07-04,286
+Jamaica,,,,,-73.808416,40.698942,2020-07-04,1166
+World Trade Center,,,,,-74.014129,40.7120525,2020-07-04,4668
+33 St,,,,,-73.9898747,40.7478505,2020-07-04,3163
+23 St,,,,,-73.9941768,40.7426718,2020-07-04,519
+Exchange Pl,,,,,-74.033372,40.716554,2020-07-04,1265
+Harrison,,,,,-74.1573444,40.7404721,2020-07-04,633
+14 St,,,,,-73.9987414,40.7385072,2020-07-04,1006
+Pavonia/Newport,,,,,-74.0382569,40.7250054,2020-07-04,1041
+9 St,,,,,-74.0004635,40.7344094,2020-07-04,460
+Christopher St,,,,,-74.0089239,40.732593,2020-07-04,451
+Newark Penn Station,,,,,-74.1679197,40.7335855,2020-07-04,3189
+Hoboken,,,,,-74.0332199,40.7349102,2020-07-04,1629
+Grove St,,,,,-74.0448325,40.7236214,2020-07-04,1861
+Journal Sq,,,,,-74.0686325,40.7303043,2020-07-04,4239

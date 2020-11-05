@@ -5,8 +5,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./dist/main.css" />
-    <title>NYCMapped</title>    
-    
+    <title>NYCMapped</title>
+    <link rel="icon" type="image/png" href="src/assets/favicon-32x32.png" />
+
     <script
       defer
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnCBi4ukEWV6dTzN2lcYkCRbgKg1sht3E"
@@ -14,26 +15,46 @@
   </head>
 
   <body>
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-
-
+    <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
 
     <script type="text/javascript" src="./dist/main.js"></script>
+    <div id="title-container">
+      <h1 id="title">NYC Mapped</h1>
+      <h3 id="description">Due to the recent spread of COVID-19 in the Tri-state area, people have been sheltering at home and only leave their homes for essential reasons. This project has been inspired by the vacant streets witnessed during peak covid cases in NYC. Here, I provide a rough visual on how this affected MTA Ridership compared to the previous year.</h3>
+    </div>
 
+    <div id="project-container">
+    <div id="left-half">
 
-    <div id="map">This is the map</div>
+      <div id="input-container">
 
+        <select id="dates">
+          <option value="default">Date</option>
+          <option value="07042019">7/4/2019</option>
+          <option value="07042020">7/4/2020</option>
+        </select>  
 
+        <select id="boroughs">
+          <option value="default">Borough</option>
+          <option value="ALL">ALL</option>
+          <option value="Bk">Brooklyn</option>
+          <option value="Bx">Bronx</option>
+          <option value="M">Manhattan</option>
+          <option value="Q">Queens</option>
+          <option value="SI">Staten Island</option>
+        </select>
+    
+      </div>
 
+      <div id="map">This is the map</div>
 
-    <h1 id="hello">Test</h1>
-    <select id="boroughs">
-      <option value="ALL">ALL</option>
-      <option value="Brooklyn">Brooklyn</option>
-      <option value="Bronx">Bronx</option>
-      <option value="Manhattan">Manhattan</option>
-      <option value="Queens">Queens</option>
-      <option value="Staten Island">Staten Island</option>
-    </select>
+    </div>
+    
+    <div id="right-half">
+      <ul id="data-list">
+        This is data parsed by d3
+      </ul>
+    </div>
+  </div>
   </body>
 </html>

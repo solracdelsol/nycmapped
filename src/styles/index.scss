@@ -1,4 +1,63 @@
+      html,body {
+      background-color: rgb(248, 247, 255);
+      max-height: 100%;
+      max-width: 100%;
+      }
+
+      #title-container{
+        #title{
+          display: block;
+          text-align: center;
+          background-color: #0f61a9;
+          color: rgba(247, 224, 22, 0.877);
+        }
+        #description{
+          display: block;
+          text-align: center;
+        }
+      }
+
+      #project-container{
+        display: flex;
+      }
+      
       #map {
         height: 400px;
         width: 800px;
+        margin-left: 50px;
+        margin-top: 100px;
+      }
+
+      #left-half{
+        display: flex;
+      }
+
+      #input-container{
+        margin-top: 200px;
+        display: flex;
+        flex-direction: column;
+        
+        #boroughs {
+          margin-top: 100px;
+          width: 100px;
+        }
+
+        #dates {
+          width: 100px;
+        }
+      }
+
+      #right-half{
+        width:300px;
+      }
+
+      #data-list{
+        height: 300px;
+        width: 100px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-top: 100px;
+        width: 300px;
+        overflow: auto;
+        outline: solid green 1px;
       }
