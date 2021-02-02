@@ -2,14 +2,15 @@
 
 ## Functionality / MVP
 This project will allow the user to:
-  - Map out transactional and geolocational data for MTA turnstile swipes and Citibike rentals
-  - Be presented with visual data over the years regarding rough commercial cycling usage vs metro usage
+  - Map out transactional and geolocational data for MTA turnstile swipes
+  - Filter map by borough
+  - Switch between different calender dates for comparison
 
 ## Wireframe
 ![Wireframe](https://user-images.githubusercontent.com/64517743/106551862-24f09600-64e4-11eb-816f-52bc7f992074.png)
 
 
-This project consists of a simplistic interface that allows the user to input a date, radio buttons to filter the type of data they want to view, and a visual map representing the selected data in a progression of 24 hours. Additional controls will include a Start, Stop, and Reset for the progression. There will also be a links to my Github, LinkedIn, and Portfolio site.
+This project consists of a simplistic interface that allows the user to input a date, borough, and display a visual map representing the selected data in custom generated markers. Additional controls will include a Start, Stop, and Reset for the progression. There will also be a links to my Github, LinkedIn, and Portfolio site.
 
 
 ## Architecture and Technologies
